@@ -4,6 +4,13 @@
 ### The aim of this project is to analyze all the factors that affect the salary of a data specialist.<br> <br>The readme file will just include a preview about the project , but the detailed description will be in the project's docs.
 ---
 
+## There is a little preview for the Dashboards, Enjoy!
+<br>
+
+https://github.com/al-ghaly/Power-BI-Dashboard/assets/61648960/c5922e3f-a5bd-4b60-90cd-963065fe986d
+
+
+
 <br>
 
 **In the project files you will see some files:**
