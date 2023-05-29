@@ -3,9 +3,14 @@
 ---
 ### The aim of this project is to analyze all the factors that affect the salary of a data specialist.<br> <br>The readme file will just include a preview about the project , but the detailed description will be in the project's docs.
 ---
+
+![**Preview**](./Project Preview.mp4)
 <br>
 
+
+
 **In the project files you will see some files:**
+- **Project Preview.mp4**: Video Preview for the project.
 - **Dashboard.pbix**: The Power BI file that includes the analysis' dashboard.
 - **Project Docs.pdf:** The project's documentations.
 - **eda_data.csv-glassdoor_jobs.csv:** The datasets used for the analysis.
