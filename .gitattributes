@@ -1,4 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.pbix linguist-detectable=true
-*.pbix linguist-language=PowerBI
+
