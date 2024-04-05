@@ -1,4 +1,4 @@
-# Power-BI-Dashboard
+# Power-BI-Dashboard 
 ## To analyze data-related job market.
 ---
 ### The aim of this project is to analyze all the factors that affect the salary of a data specialist.<br> <br>The readme file will just include a preview about the project , but the detailed description will be in the project's docs.
